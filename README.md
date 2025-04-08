@@ -3,9 +3,9 @@
 This project demonstrates a simple Assembly Language program utilizing two registers. The program performs basic operations using two registers to manipulate data and perform a task.
 
 ## Table of Contents
-video- Used to show the programme 
-Word doc - This is the code used 
-Programme - Programme that was created for the use of this project 
+- [Video] -  Used to show the programme 
+- [Word Doc] - This is the code used to create the calculator 
+- [Programme] - Programme that was created for the use of this project 
 
 ## Introduction
 
